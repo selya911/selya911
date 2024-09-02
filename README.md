@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm selya</h1>
-<img src="https://static.vecteezy.com/system/resources/previews/004/889/651/non_2x/programming-coding-programmer-sitting-at-desk-and-working-ofiice-table-with-laptop-documents-lamp-coffee-flat-design-vector.jpg" alt="Girl in a jacket" width="1000" height="500">
-- 📫 How to reach me selyadharsneemuthusamy@gmail.com<br>
+<img src="https://static.vecteezy.com/system/resources/previews/004/889/651/non_2x/programming-coding-programmer-sitting-at-desk-and-working-ofiice-table-with-laptop-documents-lamp-coffee-flat-design-vector.jpg" alt="Girl in a jacket" width="1000" height="500"><br>
 - 🔭I’m currently pursuing my Postgraduate in MCA<br>
 -  I’m actively engaged in learning frontend development and Acquiring new Frameworks and technologies related to backend to become proficient in full stack development.<br>
 -  🌱 I’m also Interested in exploring the domain like data science ,data analytics since I have a basic knowledge about data accessing languages such as SQL,R.PYTHON.<br>
+- 📫 you can reach me at "selyadharsneemuthusamy@gmail.com"<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selya dharsnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selya dharsnee" height="30" width="40" /></a>
