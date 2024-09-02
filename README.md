@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm selya</h1>
 - 📫 How to reach me **selyadharsneemuthusamy@gmail.com**
-
+🔭I’m currently pursuing my Postgraduate in MCA
+I’m actively engaged in learning frontend development and Acquiring new Frameworks and technologies related to backend to become proficient in full stack development.
+🌱 I’m also Interested in exploring the domain like data science ,data analytics since I have a basic knowledge about data accessing languages such as SQL,R.PYTHON.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selya dharsnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selya dharsnee" height="30" width="40" /></a>
